@@ -1,4 +1,4 @@
-class Paper{
+ class Paper{
 
     constructor(x,y,r)
 {
